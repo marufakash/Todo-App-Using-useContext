@@ -1,0 +1,12 @@
+.home {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #444;
+}
+.home h1 {
+    color: orange;
+    padding: 20px;
+    text-align: center;
+    font-weight: 500;
+    letter-spacing: 1px;
+}

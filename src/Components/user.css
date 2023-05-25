@@ -1,0 +1,24 @@
+.user {
+    margin: 10px 0;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #222;
+    border-radius: 10px;
+}
+.user:hover {
+    background-color: #111;
+}
+.user h2 {
+    color: orange;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+.user button {
+    color: red;
+    cursor: pointer;
+    font-size: 22px;
+    border: none;
+    background-color: transparent;
+}
